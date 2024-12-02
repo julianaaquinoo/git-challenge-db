@@ -1,5 +1,6 @@
 # Comandos utilizados
 
+
 **PowerShell**
 * CD ..
 * mkdir
