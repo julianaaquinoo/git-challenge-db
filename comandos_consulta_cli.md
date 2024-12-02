@@ -1,13 +1,14 @@
 # Comandos utilizados
 
-
 **PowerShell**
+
 * CD ..
 * mkdir
 * cp
 * Rename-Item
 
 **Bash**
+
 * Add .
 * git commit
 * git push
@@ -17,3 +18,4 @@
 * git init
 * git remote -v
 * git checkout -b
+* git fetch
