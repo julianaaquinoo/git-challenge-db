@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc129f1-2f46-454f-a871-b04fd4574675" name="Changes" comment="" />
+    <list default="true" id="8cc129f1-2f46-454f-a871-b04fd4574675" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/git-challenge-db" beforeDir="false" afterPath="$PROJECT_DIR$/git-challenge-db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-challenge-db/comandos-git.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-challenge-db/comandos-git.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +24,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/juliana.teixeira/Capacitacao/GitChallenge"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/juliana.teixeira/Capacitacao/GitChallenge&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="GitChallenge" />
